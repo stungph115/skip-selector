@@ -1,4 +1,3 @@
-````markdown
 # Skip Selector React Challenge
 
 A fully redesigned, responsive skip-size selection page built with React, TypeScript, Vite, and Tailwind CSS.
@@ -82,5 +81,3 @@ skip-selector/
 Feel free to reach out if you have any questions or feedback!
 Tung Pham — [tungphamdev95@gmail.com](mailto:tungphamdev95@gmail.com)
 
-```
-```
