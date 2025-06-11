@@ -15,7 +15,7 @@ A fully redesigned, responsive skip-size selection page built with React, TypeSc
 ## Live Demo
 
 - **GitHub Repository**: <https://github.com/stungph115/skip-selector>  
-- **Sandbox Preview**: <https://mg4khx-5173.csb.app/>  
+- **Sandbox Preview**: <https://zr8r5z-5173.csb.app/>  
 
 ## Getting Started
 
