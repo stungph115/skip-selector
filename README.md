@@ -14,10 +14,13 @@ A fully redesigned, responsive skip-size selection page built with React, TypeSc
 
 ## Live Demo
 
+- **GitHub Repository**: <https://github.com/stungph115/skip-selector>  
+- **Sandbox Preview**: <https://mg4khx-5173.csb.app/>  
 
 ## Getting Started
 
 ### Prerequisites
+
 - Node.js >=18.x and npm
 
 ### Installation
@@ -65,19 +68,18 @@ skip-selector/
 
 ## Design Decisions
 
-* **Grid Layout**: Mobile-first single column, scales up to three columns at `lg` breakpoint.
-* **Card Style**: Emphasized skip images with a floating size badge; selection rings and CTA buttons.
-* **Responsive Padding**: `px-4 sm:px-6 lg:px-8` on container and footer for consistent gutters.
-* **Footer Behavior**: Fixed bottom bar with safe-area padding to avoid overlap; content padded to match container.
+- **Grid Layout**: Mobile-first single column, scales up to three columns at `lg` breakpoint.
+- **Card Style**: Emphasized skip images with a floating size badge; selection rings and CTA buttons.
+- **Responsive Padding**: `px-4 sm:px-6 lg:px-8` on container and footer for consistent gutters.
+- **Footer Behavior**: Fixed bottom bar with safe-area padding to avoid overlap; content padded to match container.
 
 ## Future Improvements
 
-* Add detailed skip descriptions or capacities.
-* Implement real user authentication and order flow.
-* Integrate a richer design system with storybook.
+- Add detailed skip descriptions or capacities.
+- Implement real user authentication and order flow.
+- Integrate a richer design system with storybook.
 
 ---
 
 Feel free to reach out if you have any questions or feedback!
 Tung Pham — [tungphamdev95@gmail.com](mailto:tungphamdev95@gmail.com)
-
