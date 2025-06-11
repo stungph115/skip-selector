@@ -27,7 +27,7 @@ A fully redesigned, responsive skip-size selection page built with React, TypeSc
 
 ```bash
 # Clone the repo
-git clone <repo-url>
+git clone https://github.com/stungph115/skip-selector
 cd skip-selector
 
 # Install dependencies
